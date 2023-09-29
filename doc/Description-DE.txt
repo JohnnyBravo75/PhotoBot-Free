@@ -1,0 +1,11 @@
+Foto Import von USB (SD-Karte, Kamera) und portablen Geräten (Handy)
+
+Manueller Import: Manuell Bilder in Album importieren. Vorhandene Bilder werden erkannt.
+
+Automatischer Import: Fotos anhand von Metadaten (Exif) in Album importieren
+
+Gut/Schlecht Sortierung: Tinder-like Fotos klassifizieren
+
+Deduplizierung: Ähnlichkeitserkennung von Fotos. ein der besten und schnellsten Ähnlichkeitserkennungen mit anschliessender Dual-Bildauswahl.
+
+Fotobrowser: Foto Dateien anzeigen lassen (inkl. Metadaten)
